@@ -1,3 +1,6 @@
 # JulyedsFirstRepository
-rt
-hello everyone,this is my new world.
+#include <stdio.h>
+main()
+{
+  printf("Hello World!\n");
+}
